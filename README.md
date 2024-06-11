@@ -1,5 +1,5 @@
 # Aptos Creed - Web 3.0 Blockchain Application
-![Aptoscreed](https://i.ibb.co/DVF4tNW/image.png)
+![Aptoscreed](https://github.com/Thycrescendo/Aptos-Creed/blob/main/client/aptt.png)
 
 # Aptos Creed
 
